@@ -1,0 +1,16 @@
+# Ignorar o diretório node_modules
+node_modules
+
+# Ignorar os logs
+*.log
+
+# Ignorar o arquivo .env
+.env
+
+# Ignorar os arquivos de teste
+**/*.test.ts
+**/*.spec.ts
+
+# Ignorar os arquivos de configuração do editor
+.vscode
+.idea
